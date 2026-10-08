@@ -1,0 +1,10 @@
+id = "crustdata-mcp"
+name = "Crustdata MCP Server"
+version = "0.0.1"
+schema_version = 1
+authors = ["Crustdata <support@crustdata.com>"]
+description = "Real-time B2B data for agents: search and enrich 1B+ people and 200M+ company profiles."
+repository = "https://github.com/mhimed-crustdata/zed-crustdata-mcp"
+
+[context_servers.crustdata-mcp]
+name = "Crustdata MCP Server"
